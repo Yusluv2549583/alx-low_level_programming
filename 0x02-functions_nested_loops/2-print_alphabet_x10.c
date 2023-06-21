@@ -2,10 +2,10 @@
 #include "main.h"
 
 /**
- * print_alphabet_10_times - prints the alphabet in lowercase 10 times,
- * followed by a new line.
+ * main - prints the alphabet in lowercase 10 times,
+ * * Return: 0
  */
-void print_alphabet_10_times(void)
+int main(void)
 {
 	    char letter;
 	    int i;
