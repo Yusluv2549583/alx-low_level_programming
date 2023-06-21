@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 
 /**
@@ -18,5 +19,4 @@ void print_alphabet_10_times(void)
 	    }
 	    _putchar('\n');
 }
-
 
